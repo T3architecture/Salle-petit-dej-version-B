@@ -1,0 +1,20 @@
+#: locale=fr
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Salle petit déjeuner version B
+
+## Skin
+
+### Label
+label4056.text = Salle petit déj version B
+
+## Media
+
+### Title
+panorama_6290002D_7617_B3FD_41A8_E086861605D3.label = Espace B 1
+panorama_64C425A2_7617_FCE6_41C6_63E2CD1EC3CF.label = Espace B 2
+panorama_64CBE515_7617_BDAD_41D2_697A483C215B.label = Espace B 3
